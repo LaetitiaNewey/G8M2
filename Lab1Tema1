@@ -1,0 +1,31 @@
+
+<html>
+
+    <head>
+    
+        <title>My First HTML Presentation</title>
+    
+    </head>
+    
+    <body>
+    
+    <h1>Letitia Provian</h1>
+    <div><background-color></background-color>
+    
+    </div>
+    <div style="background-color:pink">
+        <h3>Date of Birth:</h3>
+        <p>20 Martie 1989</p>
+      </div>
+    
+    <div style="color: red;">
+        <h3>Job description:</h3>
+        <p>Technical writer/SDL Guru</p></div>
+    
+    <h3>Hobbies:</h3>
+    <p>Poetry, Reading, Learning Stuff + Match Theory</p>
+    <h3>Motto:</h3>
+    <h5>"We shall not cease from exploration, and the end of all our exploring will be to arrive where we started and know the place for the first time."</h5>
+    <input type="button" value="Click Me">
+    </body>
+     </html>
